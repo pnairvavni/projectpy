@@ -17,4 +17,3 @@ print "This is a new line"
 print "bla bla"
 print "coverage not working"
 
-print "nothing new"
