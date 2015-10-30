@@ -7,3 +7,6 @@ class Greeter:
 
 
 print "Hello World!"
+
+
+print "Welcome here!"
