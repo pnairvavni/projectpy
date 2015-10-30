@@ -10,3 +10,5 @@ print "Hello World!"
 
 print "Loading!"
 print "Welcome here!"
+
+print "This is a new line"
