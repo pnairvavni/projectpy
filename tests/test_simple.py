@@ -8,5 +8,5 @@ class Greeter:
 
 print "Hello World!"
 
-
+print "Loading!"
 print "Welcome here!"
